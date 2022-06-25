@@ -1,1 +1,1 @@
-# Add AWS IoT Core Connector
+# AWS IoT Core Connector using Paho MQTT
